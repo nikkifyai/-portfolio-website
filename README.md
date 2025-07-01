@@ -4,7 +4,7 @@
 This is my personal portfolio website built using HTML, CSS, and JavaScript.  
 It showcases my projects, skills, and contact information.
 
-## 🔗 Live Preview
+##https://nikkifyai.github.io/-portfolio-website/
 
 Coming soon via GitHub Pages...
 
